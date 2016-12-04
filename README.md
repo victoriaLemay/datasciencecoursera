@@ -9,4 +9,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The purpose of this project is to collect, work with, and clean a data set.
 
-For more details on the transformation and processing of the raw data, please see the [CodeBook] (https://github.com/victoriaLemay/datasciencecoursera/blob/C3W4_Project/Getting_and_Cleaning_Data_Project/CodeBook.md)
+For more details on the transformation and processing of the raw data, please see the [CodeBook] (https://github.com/victoriaLemay/datasciencecoursera/blob/C3W4_Project/Getting_and_Cleaning_Data_Project/CodeBook.md).
