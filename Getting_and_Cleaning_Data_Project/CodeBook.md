@@ -4,8 +4,10 @@ Describes data analysis procedure for run_analysis.R in the Getting and Cleaning
 
 ## Data
 
-Data was obtained from this link:
+Data was obtained from the following link:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The unzipped UCI HAR Dataset directory should be placed in the Getting_and_Cleaning_Data_Project directory - from the root of the project, the filepath should look like datasciencecoursera/Getting_and_Cleaning_Data_Project/UCI HAR Dataset.
 
 The run_analysis.R script makes use of the following files in the UCI HAR Dataset:
